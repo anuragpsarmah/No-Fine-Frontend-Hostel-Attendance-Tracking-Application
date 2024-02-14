@@ -169,7 +169,7 @@ class MainActivity : AppCompatActivity() {
         private fun calculateNext839Millis(currentHour: Int, currentMinute: Int): Long {
             val calendar = Calendar.getInstance().apply {
                 set(Calendar.HOUR_OF_DAY, 8)
-                set(Calendar.MINUTE, 0)
+                set(Calendar.MINUTE, 40)
                 set(Calendar.SECOND, 0)
                 if(get(Calendar.HOUR_OF_DAY) < currentHour) add(Calendar.DAY_OF_MONTH, 1)
                 else if(get(Calendar.HOUR_OF_DAY) == currentHour){
@@ -181,8 +181,8 @@ class MainActivity : AppCompatActivity() {
 
         private fun calculateNext924Millis(currentHour: Int, currentMinute: Int): Long {
             val calendar = Calendar.getInstance().apply {
-                set(Calendar.HOUR_OF_DAY, 8)
-                set(Calendar.MINUTE, 4)
+                set(Calendar.HOUR_OF_DAY, 21)
+                set(Calendar.MINUTE, 25)
                 set(Calendar.SECOND, 0)
                 if(get(Calendar.HOUR_OF_DAY) < currentHour) add(Calendar.DAY_OF_MONTH, 1)
                 else if(get(Calendar.HOUR_OF_DAY) == currentHour){
