@@ -195,7 +195,7 @@ class MainActivity : AppCompatActivity() {
         private fun sendPostRequest(username: String, password: String, time: Int) {
             Log.d("MainActivity", "$username $password $time")
 
-            val url = "https://6363-13-200-255-111.ngrok-free.app/login"
+            val url = "https://4e1b-13-200-255-111.ngrok-free.app/login"
             val requestBody = "{\"username\": \"$username\", \"password\": \"$password\", \"time\": \"$time\"}"
 
             // Increase the timeout value to allow longer wait times
