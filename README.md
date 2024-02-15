@@ -23,3 +23,9 @@ Make sure to update the 'url' variable in the code to match your own ngrok tunne
 ![Attendance Notification](https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707934140/Screenshot_2024-02-14-22-46-20-18_e3dfd801bae453b1d34e24dd12bbba4f_exkdso.jpg)
 
 ![App Interface](https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707934139/Screenshot_2024-02-14-08-40-15-95_b783bf344239542886fee7b48fa4b892_jw7le3.jpg)
+
+## Download
+
+Download the application from the release section of the repository or scan this QR. Please note that the application may require maintenance, and the version you download might not function properly at the time of download. It's advisable to obtain the source code and build the application for optimal performance.
+
+![Attendance Notification](https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707963789/No_FIne_Download_cymew2.png)
