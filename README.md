@@ -22,7 +22,7 @@ Make sure to update the 'url' variable in the code to match your own ngrok tunne
 
 <img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707934140/Screenshot_2024-02-14-22-46-20-18_e3dfd801bae453b1d34e24dd12bbba4f_exkdso.jpg" alt="Alt text" width="480" height="800">
 
-<img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707934139/Screenshot_2024-02-14-08-40-15-95_b783bf344239542886fee7b48fa4b892_jw7le3.jpg" alt="Alt text" width="500" height="800">
+<img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707934139/Screenshot_2024-02-14-08-40-15-95_b783bf344239542886fee7b48fa4b892_jw7le3.jpg" alt="Alt text" width="480" height="800">
 
 ## Download
 
