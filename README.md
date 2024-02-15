@@ -28,4 +28,4 @@ Make sure to update the 'url' variable in the code to match your own ngrok tunne
 
 Download the application from the release section of the repository or scan this QR. Please note that the application may require maintenance, and the version you download might not function properly at the time of download. It's advisable to obtain the source code and build the application for optimal performance.
 
-![Attendance Notification](https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707963789/No_FIne_Download_cymew2.png)
+<div style="text-align:center;"><img src="https://res.cloudinary.com/dgh9mcfxu/image/upload/v1707963789/No_FIne_Download_cymew2.png" alt="Alt text" width="600" height="600"></div>
