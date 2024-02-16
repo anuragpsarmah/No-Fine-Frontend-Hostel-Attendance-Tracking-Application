@@ -26,7 +26,7 @@ Make sure to update the 'url' variable in the code to match your own ngrok tunne
 
 ## Download
 
-${\color{red}\text{To uphold security and ensure data privacy, it is advisable to build your own APK and host the backend on a personal VPS server.}}$
+<p>${\color{red}\text{To uphold security and ensure data privacy, it is advisable to build your own APK and host the backend on a personal VPS server.}}$</p>
 
 Download the application from the release section of the repository or scan this QR. Please note that the application may require maintenance, and the version you download might not function properly at the time of download. It's advisable to obtain the source code and build the application for optimal performance.
 
