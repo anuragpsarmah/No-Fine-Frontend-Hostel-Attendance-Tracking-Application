@@ -4,6 +4,8 @@
 
 **No Fine** is an application designed for Christ University Hostel (K E Hall, Jonas Hall etc.) residents to track their attendance. It automates the attendance tracking process and notifies users to mark their attendance to avoid fines imposed for non-compliance. The Android frontend of the application regularly sends HTTP POST requests to the backend Python script. This script is responsible for extracting attendance data from the user's Knowledge Pro profile. The frontend then processes the response it receives, triggering the display of notifications accordingly.
 
+To understand how the HTTP POST request is handled at the backend, visit the backend repository.
+
 ## Deployment
 
 To deploy and run this project on your local system, follow these steps:
